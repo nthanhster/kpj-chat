@@ -3,6 +3,7 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
 !**/src/test/**
+./chat-service/src/main/resources/application.yml
 
 ### STS ###
 .apt_generated
